@@ -1,22 +1,22 @@
      
-print('selekt username')
+print('selekct username')
 username = input()
 while username != "Batman":
     
-    print('selekt username')
+    print('select username')
     username = input()
     
     if username == 'Batman':
         break
         
-print('selekt password')
+print('select password')
 password = input()
-while username != "Batman":
+while password != "Batman":
     
-    print('selekt username')
-    username = input()
+    print('select password')
+    password = input()
     
-    if username == 'I am Batman':
+    if password == 'I am Batman':
         break
 print('welcome')
 
