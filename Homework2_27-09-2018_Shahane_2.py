@@ -1,27 +1,15 @@
-     
-print('selekct username')
-username = input()
-while username != "Batman":
-    
+while True:
     print('select username')
     username = input()
-    
     if username == 'Batman':
+        a = 1
         break
-        
-print('select password')
-password = input()
-while password != "Batman":
-    
+
+
+while a == 1:
     print('select password')
     password = input()
-    
     if password == 'I am Batman':
         break
 print('welcome')
-
-
-
-
-
 
