@@ -19,8 +19,7 @@ for i in range(3):
 
 
 
-#ZeroDivisionError: division by zero
-#ValueError: invalid literal for int() with base 10:
+
 
 
 
